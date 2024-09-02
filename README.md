@@ -11,4 +11,5 @@ User-Friendly Interface: Enjoy a seamless shopping experience with an intuitive 
 Secure Payment Options: Shop with confidence using our secure and reliable payment gateways.
 Customer Support: Get assistance whenever you need it with our dedicated customer support team.
 
-![FURRY FEASTS Logo]([https://yourwebsite.com/path/to/image.png](https://files.oaiusercontent.com/file-YRHj5RJORcZbRZ7jlA4XVCIC?se=2024-09-02T11%3A12%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D79e8b485-8b0a-46b8-9301-b34e82fefde9.webp&sig=u%2Bw38AezFHGs04Yzm/DEq4kLMLsze57G1MrAbwkBYGA%3D))
+
+![image](https://github.com/user-attachments/assets/1c77f4b8-85f1-4f0d-96de-18f53c4c9241)
